@@ -4,5 +4,5 @@ Repositorios de ejemplos y pruebas de scripts escritos en javascript en sus dife
 
 
 * mail.js - Mail Monitor
-* monitor.js	- Monitor de Archivos con node.jso
+* monitor.js	- Monitor de Archivos con node.js
 * track.js - Track Server GPS
