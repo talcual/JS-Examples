@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js checker</title>
+</head>
+<body>
+	<textarea id="jscode"></textarea>
+	<button id="checking">Check Javascript code</button>
+	<script type="text/javascript">
+		
+
+		$g = function(componet){
+			return document.querySelector(componet);
+		};
+
+		document.getElementById('checking').onclick = function(){
+
+			try{
+
+				var code = $g('#jscode').value;
+
+				return (function(code){
+					eval(code);
+				})(code);
+
+
+			}catch(e){
+				console.log(e);
+			}
+
+		};
+		
+	</script>
+</body>
+</html>
