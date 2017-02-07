@@ -7,6 +7,8 @@ Repositorios de ejemplos y pruebas de scripts escritos en javascript en sus dife
 * monitor.js - Monitor de Archivos con node.js
 * track.js   - Track Server GPS
 * snmp.js    - Lector de SNMP en dispositivos habilitados. 
+* js_checker.html - Ejemplo de como se puede utilizar eval() para evaluar un script 
+* walk_table.js - Walking Table, implementacion en jQuery de un sencillo codigo para recorrer una tabla y capturar el texto contenido en cada uno de sus campos.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/talcual/js-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
