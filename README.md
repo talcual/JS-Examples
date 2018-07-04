@@ -13,7 +13,5 @@ Repositorios de ejemplos y pruebas de scripts escritos en javascript en sus dife
 de seguro que tu smart tv podra reproducir tus videos.
 * Position.js - Un script que permite saber si un punto se encuentra dentro de un poligono, util cuando queremos 
 saber si un vehiculo o persona esta en un area especifica delimitada por nosotros.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/talcual/js-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+* xpath.js - Sencillo script que contiene una funcion con la cual se pueden ejecutar consultas xpath y despues poder ejecutar acciones sobre los elementos encontrados.
 
