@@ -14,4 +14,5 @@ de seguro que tu smart tv podra reproducir tus videos.
 * Position.js - Un script que permite saber si un punto se encuentra dentro de un poligono, util cuando queremos 
 saber si un vehiculo o persona esta en un area especifica delimitada por nosotros.
 * xpath.js - Sencillo script que contiene una funcion con la cual se pueden ejecutar consultas xpath y despues poder ejecutar acciones sobre los elementos encontrados.
+* upsnipp.js  - funcion que permite hacer un upload de archivos de forma facil y practica.
 
