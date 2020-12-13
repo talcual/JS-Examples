@@ -16,3 +16,7 @@ saber si un vehiculo o persona esta en un area especifica delimitada por nosotro
 * xpath.js - Sencillo script que contiene una funcion con la cual se pueden ejecutar consultas xpath y despues poder ejecutar acciones sobre los elementos encontrados.
 * upsnipp.js  - funcion que permite hacer un upload de archivos de forma facil y practica.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/talcual/js-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
